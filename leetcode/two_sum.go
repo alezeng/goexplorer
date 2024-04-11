@@ -38,9 +38,6 @@ func twoSum(nums []int, target int) [][]int {
 				result = append(result, []int{j, i})
 			}
 		}
-		if _, found := visited[num]; !found {
-			visited[num] = []int{}
-		}
 		visited[num] = append(visited[num], i)
 	}
 	return result
