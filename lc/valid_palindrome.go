@@ -1,5 +1,5 @@
 /*
-alid palindrome
+Valid palindrome
 https://leetcode.com/problems/valid-palindrome/
 A palindrome is a word that reads the same backwards and forwards. Given a string "s", determine if it is a palindrome. Note: You can begin by just considering lowercase alphanumeric characters.
 Example 1:
